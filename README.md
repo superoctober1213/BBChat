@@ -30,4 +30,22 @@ BBChat is a web-based social dating chat site. Like most communication software,
 ## Link to Project Board for all Sprints
 https://github.com/jindajia/BBChat/projects
 
+## Link to Sprint4 deliverables
+https://github.com/jindajia/BBChat/blob/master/Sprint4/Sprint4.md
+
+## Link to API documentation
+https://github.com/jindajia/BBChat/blob/master/Sprint4/APIDoc.md
+
+## Features we have done for the backend in this project
+https://github.com/jindajia/BBChat/blob/master/Sprint4/BackEnd_Funcs.md
+
+## Demo video for functionality
+https://user-images.githubusercontent.com/56080068/164352047-740dc666-52f4-48f4-9ac8-e83f41d6ff6b.mp4
+
+## Demo video for Cypress test 
+https://user-images.githubusercontent.com/56080068/164340394-545c5e5b-0edf-4fcd-bddc-dbc03f3fa659.mp4
+
+## Demo video for Backend Unit Test
+
+https://user-images.githubusercontent.com/67389400/164343653-57d13e1f-8560-4059-93bd-7e70588521c0.mp4
 
